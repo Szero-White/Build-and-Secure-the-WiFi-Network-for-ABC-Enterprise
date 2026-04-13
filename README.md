@@ -15,7 +15,7 @@ Dự án này tập trung vào việc **thiết kế, mô phỏng, triển khai 
 - **Khảo sát mặt bằng và phân tích nhu cầu sử dụng:**  
   Tiến hành khảo sát số lượng phòng ban/tầng/lầu, số lượng thiết bị, và phạm vi vùng phủ sóng cần thiết cho doanh nghiệp ABC.
 - **Lập sơ đồ mạng tổng thể:**  
-  S�� dụng sơ đồ trực quan để xác định vị trí router, switch, các điểm truy cập (AP), chia khu vực làm việc, guest, phòng Server,...
+  Sử dụng sơ đồ trực quan để xác định vị trí router, switch, các điểm truy cập (AP), chia khu vực làm việc, guest, phòng Server,...
 - **Tính toán số lượng thiết bị hợp lý:**  
   Đưa ra giải pháp chọn loại thiết bị router, switch, AP phù hợp với nhu cầu truy cập, đảm bảo hiệu suất và độ tin cậy.
 
